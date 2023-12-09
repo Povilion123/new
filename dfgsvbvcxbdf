@@ -1,0 +1,23 @@
+[33mcommit 1fbc2b44d68e365cd6e81c64f9518dc984eb701d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Pavel <Sobaninpavel@gmail.com>
+Date:   Sat Dec 9 21:49:15 2023 +0500
+
+    add README
+
+[33mcommit 96460046dc2e88819cda362c940748ee9a470860[m
+Author: Pavel <Sobaninpavel@gmail.com>
+Date:   Sat Dec 9 21:09:38 2023 +0500
+
+    add h2
+
+[33mcommit 68f838051aeb4676a872d62877bd9ae83a36c7d0[m
+Author: Pavel <Sobaninpavel@gmail.com>
+Date:   Sat Dec 9 21:00:36 2023 +0500
+
+    add title
+
+[33mcommit 08dca874e3d376fbb4e77dc1842f3097f870ef77[m
+Author: Pavel <Sobaninpavel@gmail.com>
+Date:   Sat Dec 9 20:58:35 2023 +0500
+
+    init project
